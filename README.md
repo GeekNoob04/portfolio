@@ -33,7 +33,7 @@ A modern, responsive portfolio website designed to showcase personal projects, s
 
 1. **Clone the Repository**:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/GeekNoob04/portfolio
    ```
 2. **Install Dependencies**:
    - Ensure you have an EmailJS account and replace the `YOUR_PUBLIC_KEY` in `contact.js`
@@ -58,23 +58,9 @@ portfolio/
 └── contact.js
 ```
 
-## 📸 Screenshots
-
-[Image of desktop view]
-[Image of mobile view]
-[Image of contact form]
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Ensure your changes are well-documented and follow the existing code style.
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For questions or suggestions, please contact [Your Name] at [your.email@example.com].
 
 ## 💖 Special Thanks
 
