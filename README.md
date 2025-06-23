@@ -1,6 +1,4 @@
 
-
-```markdown
 # Portfolio Website
 
 A modern, responsive portfolio website designed to showcase personal projects, skills, and experiences. Built with clean HTML, CSS, and JavaScript, this portfolio includes smooth scrolling, a mobile-friendly design, and a contact form with email functionality.
@@ -34,7 +32,7 @@ A modern, responsive portfolio website designed to showcase personal projects, s
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/GeekNoob04/portfolio
-   ```
+
 2. **Install Dependencies**:
    - Ensure you have an EmailJS account and replace the `YOUR_PUBLIC_KEY` in `contact.js`
    - No additional packages needed beyond what's in the repository
